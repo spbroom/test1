@@ -5,7 +5,7 @@ export default function First() {
   }
   return (
     <main>
-      <h1>Hello First!</h1>
+      <h1>Hello First! yoyoyoy</h1>
       <p>My Next.js App Router is working.</p>
       <button onClick={handleClick}>write</button>
     </main>
